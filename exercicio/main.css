@@ -46,6 +46,7 @@ header {
     padding: 15px; /*espaço entre a borda e o conteúdo do elemento*/
     background-color: #87bf3fdb; /*cor de fundo*/
     color: #2a3f0d;
+	font-size:1.5rem;
 }
 
 /*fim do estilo do menu*/  
@@ -95,7 +96,8 @@ div.avatar img{
     
     background-color: #88c23d6b; /*cor de fundo*/
     padding: 40px;
-     
+    font-family:Oswald;
+	font-size:1.5rem;
 }
 
 
